@@ -1,9 +1,12 @@
-<!-- =============================== -->
-<!--        ONLY KAMRUL PROFILE       -->
-<!-- =============================== -->
+<!-- =================================== -->
+<!--        ONLY KAMRUL | GITHUB HOME     -->
+<!-- =================================== -->
 
 <h1 align="center">🟢 ACCESS GRANTED</h1>
-<p align="center"><code>Initializing profile...</code></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=39FF14&center=true&vCenter=true&width=420&lines=Initializing+profile.;Initializing+profile..;Initializing+profile...">
+</p>
 
 <hr/>
 
@@ -14,7 +17,6 @@ $ whoami
 Name  : Kamrul Hossain
 Alias : OnlyKamrul
 Role  : Developer | Learner | Builder
-Mode  : Focused
 ```
 
 <hr/>
@@ -24,8 +26,8 @@ Mode  : Focused
 ```txt
 ▣ Programming
 ▣ Git & GitHub
+▣ HTML / CSS / JavaScript
 ▣ Web Development
-▣ HTML / CSS / JS
 ▣ Problem Solving
 ▣ Continuous Learning
 ```
@@ -36,8 +38,8 @@ Mode  : Focused
 
 ```diff
 + Build real-world projects
-+ Write clean and readable code
-+ Learn something new every day
++ Write clean, readable code
++ Improve skills daily
 ```
 
 <hr/>
@@ -57,7 +59,7 @@ Mode  : Focused
 
 ```txt
 GitHub : https://github.com/OnlyKamrul
-Status : ONLINE ███████▒▒▒
+Status : 🟢 ONLINE
 ```
 
 <hr/>
